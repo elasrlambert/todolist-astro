@@ -10,8 +10,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.13",
     "@astrojs/check": "^0.9.4",
-    "typescript": "^5.7.2"
+    "@astrojs/vue": "^4.5.3",
+    "@zeabur/astro-adapter": "^1.0.6",
+    "astro": "^4.16.13",
+    "typescript": "^5.7.2",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.81.0"
   }
 }
